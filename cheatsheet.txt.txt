@@ -1,0 +1,22 @@
+Go to Button New Publish on Git Hub
+Install Git Bash 
+Initialize command on Git Bash under project 
+$ git config --global user name Ashok 
+$ git config --global user email "ashokkmr483@gmail.com"
+
+touch.gitignore
+git init
+git add .
+git commit -m "Initial commit"
+git status (just to see)
+ssh-keygen-t rsa - b4096-c " ashokkmr483@gmail.com"
+tail<path to id-rsa.pub># add this key to  your github Account 
+git remote add origin get@github.com:ashokgit create/Gym-website.git
+
+SSH -key-appeared authonticity 
+save the file on the same path (now RSA is created)
+Cat paste the path 
+
+git push origin master  
+
+
